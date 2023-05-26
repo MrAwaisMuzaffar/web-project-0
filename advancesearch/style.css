@@ -1,0 +1,13 @@
+#heading{
+color:tomato;
+}
+body{
+    background-color: rgb(174, 151, 94);
+}
+#form{
+    
+    position :relative;
+    top: 200px;
+    left:150px;
+
+}
